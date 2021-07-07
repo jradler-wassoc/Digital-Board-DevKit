@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name amplifier-special-purpose)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/amplifier-special-purpose)(options "")(descr ""))
+  (lib (name PGA281AIPW)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/amplifier-special-purpose/PGA281AIPW.pretty)(options "")(descr ""))
+  (lib (name LTM2887CY-5I-PBF)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/LTM2887CY-5I-PBF.pretty)(options "")(descr ""))
+  (lib (name Si8655BA-B-IU)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/Si8655BA-B-IU.pretty)(options "")(descr ""))
+  (lib (name ISO7741BDWR)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/ISO7741BDWR.pretty)(options "")(descr ""))
+  (lib (name MAX14850AEE&plus_)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/MAX14850AEE&plus_.pretty)(options "")(descr ""))
+  (lib (name Amplifier_Power)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/Amplifier_Power)(options "")(descr ""))
+  (lib (name sensor-ics)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/sensor-ics)(options "")(descr ""))
+  (lib (name heatsinks)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/heatsinks)(options "")(descr ""))
+  (lib (name ipa_logos)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/ipa_logos)(options "")(descr ""))
+)

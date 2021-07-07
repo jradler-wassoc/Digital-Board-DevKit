@@ -1,0 +1,65 @@
+Molex Connector 3D Models in KiCAD
+C:/Users/josep/Documents/kicad/3d_renders/105310-1204--3DModel-STEP-361473.step
+105310-1204--3DModel-STEP-361473.step
+
+-90.0 deg Z
+
++0.0470 X offset
+-0.0480 Y offset
++0.1890 Z offset
+
+
+
+
+MicroClasp 559320230
+C:/Users/josep/Documents/kicad/3d_renders/559320230 - Copy.stp
+x -90deg
+
+x 0.0400"
+y -0.1170"
+x 0.00"
+
+
+20-pin Molex MicroClasp Connector
+C:/Users/josep/Documents/kicad/3d_renders/430452012.stp
+180 deg Z
+0.5320" 
+-0.054"
+0.1950
+
+Molex PicoClasp 6-pin
+C:/Users/josep/Documents/kicad/3d_renders/5023820670.stp
+x 0.00
+y 0.03
+z 0.0920
+
+Molex PicoClasp 2pin (RXAFE)
+C:/Users/josep/Documents/kicad/3d_renders/2023960207.stp
+x 90deg
+y 180deg
+z 180deg
+
+x 0
+y -0.0300
+z 0.06
+
+
+Stacking Board Headers
+Samtec 
+C:/Users/josep/Documents/kicad/3d_renders/pinheaders-stacker/SSQ-120-03-G-S.stp
+
+x 270
+y 180
+z 90
+
+x 0.00
+y -0.9480
+z -0.0020
+
+Board Interconnects:
+12 pin 1.27mm pitch pinheader
+GCT?
+
+
+12 pin 1.27mm pinsocket
+GCT
